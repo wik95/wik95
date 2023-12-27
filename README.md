@@ -51,10 +51,10 @@
 
 <h2 align="center">Newest Projects</h2>
 
-<h3 align="center">The latest 4 projects I worked on:</h3>
+<h3 align="center">The latest 3 projects I worked on:</h3>
 
 <h3 align="center">CV App</h3>
-
+      
 <div align="center">
   <img width="70%" src="images/cv_app.png"/>
 </div>
@@ -72,44 +72,48 @@
     <img src="icons/javascript-logo-svgrepo-com.svg" alt="JavaScript" width="30" height="30"/>
   </p>
   <br>
-
-  <h3 align="center">ToDo React App</h3>
-
-<div align="center">
-  <img width="70%" src="images/todo_app.png"/>
-</div>
-<br>
-<p align="center">
-  <a href="https://github.com/wik95/todo_react"> 
-    <img src="icons/github-logo-svgrepo-com.svg" alt="repo" height="20" width='20' /> Repository
-  </a> &ensp;
-   <a href="https://wik95.github.io/todo_react/"> 
-    <img src="icons/live-svgrepo-com.svg" alt="live" height="20" width='20' /> Live
-  </a>
-  </p>
-  <p align="center">
-    <img src="icons/react-logo-svgrepo-com.svg" alt="React" width="30" height="30"/> &ensp;
-    <img src="icons/javascript-logo-svgrepo-com.svg" alt="JavaScript" width="30" height="30"/>
-  </p>
-  <br>
-
-  <h3 align="center">AdRespect Project</h3>
-
-<div align="center">
-  <img width="70%" src="images/adrespect.png"/>
-</div>
-<br>
-<p align="center">
-  <a href="https://github.com/wik95/adrespect_project"> 
-    <img src="icons/github-logo-svgrepo-com.svg" alt="repo" height="20" width='20' /> Repository
-  </a> &ensp;
-   <a href="https://wik95.github.io/adrespect_project/"> 
-    <img src="icons/live-svgrepo-com.svg" alt="live" height="20" width='20' /> Live
-  </a>
-  </p>
-  <p align="center">
-    <img src="icons/tailwind-svgrepo-com.svg" alt="tailwind" width="30" height="30"/> &ensp;
-    <img src="icons/javascript-logo-svgrepo-com.svg" alt="JavaScript" width="30" height="30"/>
-  </p>
-  <br>
-
+  <table>
+  <tr>
+    <td>
+    <h3 align="center">ToDo React App</h3>  
+    <div align="center">
+      <img width="70%" src="images/todo_app.png"/>
+    </div>
+    <br>
+    <p align="center">
+      <a href="https://github.com/wik95/todo_react"> 
+        <img src="icons/github-logo-svgrepo-com.svg" alt="repo" height="20" width='20' /> Repository
+      </a> &ensp;
+       <a href="https://wik95.github.io/todo_react/"> 
+        <img src="icons/live-svgrepo-com.svg" alt="live" height="20" width='20' /> Live
+      </a>
+      </p>
+      <p align="center">
+        <img src="icons/react-logo-svgrepo-com.svg" alt="React" width="30" height="30"/> &ensp;
+        <img src="icons/javascript-logo-svgrepo-com.svg" alt="JavaScript" width="30" height="30"/>
+      </p>
+      <br>
+      </td>
+      <td>
+      <h3 align="center">AdRespect Project</h3>
+      <div align="center">
+        <img width="70%" src="images/adrespect.png"/>
+      </div>
+      <br>
+      <p align="center">
+        <a href="https://github.com/wik95/adrespect_project"> 
+          <img src="icons/github-logo-svgrepo-com.svg" alt="repo" height="20" width='20' /> Repository
+        </a> &ensp;
+         <a href="https://wik95.github.io/adrespect_project/"> 
+          <img src="icons/live-svgrepo-com.svg" alt="live" height="20" width='20' /> Live
+        </a>
+        </p>
+        <p align="center">
+          <img src="icons/tailwind-svgrepo-com.svg" alt="tailwind" width="30" height="30"/> &ensp;
+          <img src="icons/javascript-logo-svgrepo-com.svg" alt="JavaScript" width="30" height="30"/>
+        </p>
+        <br>
+        </td>
+      </tr>
+   </table>
+  
